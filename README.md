@@ -15,3 +15,6 @@ Consulta las tasas de cambio actuales desde la API.
 Convierte montos entre las divisas soportadas.
 
 Soporte bidireccional (conversión en ambas direcciones).
+
+
+Fue realizado como desafio en el marco de la formacion de ONE + Alura
